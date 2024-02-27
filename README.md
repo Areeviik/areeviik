@@ -13,7 +13,7 @@ Here's where I received my education:
 - Yerevan State University. Faculty of Informatics and Applied Mathematics. Bachelor's degree.
 - 42 Yerevan coding school.
 
-Thanks for stopping by my profile! Feel free to reach out if you have any questions or just want to say hi.
+Thanks for stopping by my profile! Feel free to reach out if you have any questions.
 
 
 
