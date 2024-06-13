@@ -38,3 +38,10 @@ Thanks for stopping by my profile! Feel free to reach out if you have any questi
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=areeviik&show_icons=true&theme=cobalt&count_private=true)](https://github.com/areeviik/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areeviik&langs_count=15&layout=compact)](https://github.com/areeviik/github-readme-stats)
+
+<div align="center">
+
+  <a href="https://github.com/Zekao/badge42">
+    <img src="https://badge.emaugale.com/api/v2/clxd92hms261001qkaxpe4vu0/stats?cursusId=21&coalitionId=undefined" alt="akhachat's 42 stats" />
+  </a>
+</div>
